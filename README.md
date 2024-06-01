@@ -1,5 +1,5 @@
 # Suika.py
-Minimum python suika game  
+Minimum python Suika game (Watermelon game)
 ![2024-06-01_12-37-34](https://github.com/HodooPy/suikapy/assets/171400185/bf66ab9d-d383-4381-af81-3a1087333588)  
 
 The only dependencies are NumPy, Numba, Matplotlib.  
